@@ -1,0 +1,63 @@
+scenario;indicator;category;unit;mid;end_point_factor;end_point;end_point_unit;end
+ldv_total;climate change;climate;kg CO2 eq;4.16E+12;1;climate;kg CO2 eq;4.16E+12
+ldv_total;Congestion;economic;$;4.74E+11;1;economic;$;4.74E+11
+ldv_total;Understimated_additional_owner_cost;economic;$;3.19E+11;1;economic;$;3.19E+11
+ldv_total;agricultural land occupation;environment;m2a;1.80E+11;1.47E-08;environment;species.yr;2.65E+03
+ldv_total;freshwater ecotoxicity;environment;kg 1,4-DB eq;2.77E+11;8.61E-10;environment;species.yr;2.38E+02
+ldv_total;freshwater eutrophication;environment;kg P eq;5.79E+08;4.44E-08;environment;species.yr;2.57E+01
+ldv_total;marine ecotoxicity;environment;kg 1,4-DB eq;2.50E+11;1.76E-10;environment;species.yr;4.39E+01
+ldv_total;marine eutrophication;environment;kg N eq;5.71E+08;1.70E-09;environment;species.yr;9.70E-01
+ldv_total;natural land transformation;environment;m2;-3.35E+08;1.92E-06;environment;species.yr;-6.44E+02
+ldv_total;ozone depletion;environment;kg CFC-11 eq;7.27E+05;0.003028696;environment;species.yr;2.20E+03
+ldv_total;terrestrial acidification;environment;kg SO2 eq;1.28E+10;5.80E-09;environment;species.yr;7.40E+01
+ldv_total;terrestrial ecotoxicity;environment;kg 1,4-DB eq;6.41E+08;1.51E-07;environment;species.yr;9.65E+01
+ldv_total;water depletion;environment;m3;2.03E+10;1.35E-08;environment;species.yr;2.74E+02
+ldv_total;Platic_emission_tire;environment;t;3.52E+06;1;environment;t;3.52E+06
+ldv_total;human toxicity;health;kg 1,4-DB eq;1.15E+12;0.0000007;health;DALY;8.03E+05
+ldv_total;ionising radiation;health;kg U235 eq;3.70E+11;1.64E-08;health;DALY;6.07E+03
+ldv_total;Physical_activity_health_care_cost_WHO;economic;$;5.32E+10;1;economic;$;5.32E+10
+ldv_total;Physical_activity_health_impact_GBD;health;DALY;2.72E+07;1;health;DALY;2.72E+07
+ldv_total;Physical_activity_health_impact_GBD;health;premature death;1.47E+06;1;health;premature death;1.47E+06
+ldv_total;Physical_activity_health_impact_lancet;health;premature death;3.59E+06;1;health;premature death;3.59E+06
+ldv_total;Road_accidents;health;DALY;1.28E+08;1;health;DALY;1.28E+08
+ldv_total;Road_accidents;health;premature death;2.10E+06;1;health;premature death;2.10E+06
+ldv_total;Road_noise;health;DALY;3.48E+07;1;health;DALY;3.48E+07
+ldv_total;air_pollution_cost;economic;$;3.76E+12;1;economic;$;3.76E+12
+ldv_total;air_pollution;health;DALY;4.84E+07;1;health;DALY;4.84E+07
+ldv_total;air_pollution_direct_cost;economic;$;2.50E+11;1;economic;$;2.50E+11
+ldv_total;air_pollution_indirect_cost;economic;$;3.51E+12;1;economic;$;3.51E+12
+ldv_total;air_pollution;health;premature death;2.03E+06;1;health;premature death;2.03E+06
+ldv_total;fossil depletion;ressources;kg oil eq;1.42E+12;1;ressources;kg oil eq;1.42E+12
+ldv_total;metal depletion;ressources;kg Fe eq;9.25E+11;1;ressources;kg Fe eq;9.25E+11
+ldv_total;urban land occupation;ressources;m2a;1.28E+11;1;ressources;m2a;1.28E+11
+ldv_total_bike share 0.47263520008;climate change;climate;kg CO2 eq;2.47E+12;1;climate;kg CO2 eq;2.47E+12
+ldv_total_bike share 0.47263520008;Congestion;economic;$;3.64E+11;1;economic;$;3.64E+11
+ldv_total_bike share 0.47263520008;Understimated_additional_owner_cost;economic;$;2.45E+11;1;economic;$;2.45E+11
+ldv_total_bike share 0.47263520008;agricultural land occupation;environment;m2a;4.67E+11;1.47E-08;environment;species.yr;6.88E+03
+ldv_total_bike share 0.47263520008;freshwater ecotoxicity;environment;kg 1,4-DB eq;1.75E+11;8.61E-10;environment;species.yr;1.51E+02
+ldv_total_bike share 0.47263520008;freshwater eutrophication;environment;kg P eq;4.52E+08;4.44E-08;environment;species.yr;2.01E+01
+ldv_total_bike share 0.47263520008;marine ecotoxicity;environment;kg 1,4-DB eq;1.57E+11;1.76E-10;environment;species.yr;2.76E+01
+ldv_total_bike share 0.47263520008;marine eutrophication;environment;kg N eq;1.43E+09;1.70E-09;environment;species.yr;2.44E+00
+ldv_total_bike share 0.47263520008;natural land transformation;environment;m2;-2.06E+08;1.92E-06;environment;species.yr;-3.96E+02
+ldv_total_bike share 0.47263520008;ozone depletion;environment;kg CFC-11 eq;4.01E+05;0.003028696;environment;species.yr;1.22E+03
+ldv_total_bike share 0.47263520008;terrestrial acidification;environment;kg SO2 eq;8.89E+09;5.80E-09;environment;species.yr;5.16E+01
+ldv_total_bike share 0.47263520008;terrestrial ecotoxicity;environment;kg 1,4-DB eq;2.57E+09;1.51E-07;environment;species.yr;3.88E+02
+ldv_total_bike share 0.47263520008;water depletion;environment;m3;4.88E+10;1.35E-08;environment;species.yr;6.58E+02
+ldv_total_bike share 0.47263520008;Platic_emission_tire;environment;t;2.70E+06;1;environment;t;2.70E+06
+ldv_total_bike share 0.47263520008;human toxicity;health;kg 1,4-DB eq;8.04E+11;0.0000007;health;DALY;5.63E+05
+ldv_total_bike share 0.47263520008;ionising radiation;health;kg U235 eq;2.15E+11;1.64E-08;health;DALY;3.53E+03
+ldv_total_bike share 0.47263520008;Physical_activity_health_care_cost_WHO;economic;$;4.08E+10;1;economic;$;4.08E+10
+ldv_total_bike share 0.47263520008;Physical_activity_health_impact_GBD;health;DALY;2.09E+07;1;health;DALY;2.09E+07
+ldv_total_bike share 0.47263520008;Physical_activity_health_impact_GBD;health;premature death;1.13E+06;1;health;premature death;1.13E+06
+ldv_total_bike share 0.47263520008;Physical_activity_health_impact_lancet;health;premature death;2.75E+06;1;health;premature death;2.75E+06
+ldv_total_bike share 0.47263520008;Road_accidents;health;DALY;9.80E+07;1;health;DALY;9.80E+07
+ldv_total_bike share 0.47263520008;Road_accidents;health;premature death;1.61E+06;1;health;premature death;1.61E+06
+ldv_total_bike share 0.47263520008;Road_noise;health;DALY;2.67E+07;1;health;DALY;2.67E+07
+ldv_total_bike share 0.47263520008;air_pollution_cost;economic;$;2.88E+12;1;economic;$;2.88E+12
+ldv_total_bike share 0.47263520008;air_pollution;health;DALY;3.72E+07;1;health;DALY;3.72E+07
+ldv_total_bike share 0.47263520008;air_pollution_direct_cost;economic;$;1.92E+11;1;economic;$;1.92E+11
+ldv_total_bike share 0.47263520008;air_pollution_indirect_cost;economic;$;2.69E+12;1;economic;$;2.69E+12
+ldv_total_bike share 0.47263520008;air_pollution;health;premature death;1.56E+06;1;health;premature death;1.56E+06
+ldv_total_bike share 0.47263520008;fossil depletion;ressources;kg oil eq;8.14E+11;1;ressources;kg oil eq;8.14E+11
+ldv_total_bike share 0.47263520008;metal depletion;ressources;kg Fe eq;5.40E+11;1;ressources;kg Fe eq;5.40E+11
+ldv_total_bike share 0.47263520008;urban land occupation;ressources;m2a;8.05E+10;1;ressources;m2a;8.05E+10
