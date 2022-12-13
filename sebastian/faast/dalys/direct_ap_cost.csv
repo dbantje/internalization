@@ -1,0 +1,17 @@
+Impact / population group;Cases;Unit cost;Unit;premature deaths;cost_premature_deaths;
+Ozone effects;;;;;;
+Respiratory Hospital Admissions;19,117;2,220;€/hospital admission;23,507;1805.408602;
+Cardiovascular Hospital Admissions;86,279;2,220;€/hospital admission;23,507;8148.184796;
+Minor Restricted Activity Days (MRADs);108,845,140;42;€/day;23,507;194473.8112;
+;;;;;204427.4046;
+PM2.5 effects;;;;;;
+Chronic Bronchitis in adults;316,685;53,600;€/new case of chronic bronchitis;379,420;44737.53624;
+Bronchitis in children;1,068,990;588;€/case;379,420;1656.649939;
+Respiratory Hospital Admissions;142,243;2,220;€/hospital admission;379,420;832.2688841;
+Cardiac Hospital Admissions;108,989;2,220;€/hospital admission;379,420;637.6985399;
+Restricted Activity Days (RADs);436,351,761;92;€/day;379,420;105804.5491;
+Work loss days;121,378,612;130;€/day;379,420;41587.73802;
+Asthma symptoms, asthmatic children;11,290,673;42;€/day;379,420;1249.824116;
+Lower respiratory symptom days (all ages);502,265,520;0.042;€/day;379,420;55.59841822;
+;;;;;196561.8632;
+;;;;;197020.7436;256126.9667
