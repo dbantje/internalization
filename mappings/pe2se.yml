@@ -1,0 +1,108 @@
+biodiesel:
+  Biodiesel production, via transesterification, from palm oil, energy allocation: 1.0
+  Biodiesel production, via transesterification, from rapeseed oil, energy allocation: 1.0
+bioeths:
+  Ethanol production, via fermentation, from corn, energy allocation: 1.0
+bioftcrec:
+  Diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation: 0.46835443037974683
+  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation: 0.22784810126582278
+  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation: 0.30379746835443033
+bioftrec:
+  Diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation: 0.46835443037974683
+  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation: 0.22784810126582278
+  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation: 0.30379746835443033
+biogas:
+  Syngas, from biomass gasification, no CCS: 1.0
+biogasc:
+  Syngas, from biomass gasification, pre, pipeline 200km, storage 1000m: 1.0
+  Syngas, from biomass gasification, pre, pipeline 400km, storage 3000m: 1.0
+bioh2:
+  hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, at gasification plant: 1.0
+  hydrogen production, gaseous, 25 bar, from heatpipe reformer gasification of woody biomass, at gasification plant: 1.0
+bioh2c:
+  ? hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained
+    flow gasifier, with CCS, at gasification plant
+  : 1.0
+  hydrogen production, gaseous, 25 bar, from heatpipe reformer gasification of woody biomass with CCS, at gasification plant: 1.0
+biohp:
+  heat production, hardwood chips from forest, at furnace 1000kW, state-of-the-art 2014: 1.0
+bioigcc:
+  electricity production, at BIGCC power plant, no CCS: 1.0
+bioigccc:
+  electricity production, at BIGCC power plant, pre, pipeline 200km, storage 1000m: 1.0
+coalftcrec:
+  Diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation: 0.46835443037974683
+  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation: 0.22784810126582278
+  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation: 0.30379746835443033
+coalftrec:
+  Diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation: 0.46835443037974683
+  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation: 0.22784810126582278
+  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation: 0.30379746835443033
+coalgas:
+  Syngas, RWGS, Production, for Fischer Tropsch process, hydrogen from coal gasification: 1.0
+coalh2:
+  hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, at coal gasification plant: 1.0
+coalh2c:
+  hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, with CCS, at coal gasification plant: 1.0
+coaltr:
+  coking: 1.0
+  hard coal briquettes production: 1.0
+  lignite briquettes production: 1.0
+csp:
+  electricity production, solar thermal parabolic trough, 50 MW: 1.0
+  electricity production, solar tower power plant, 20 MW: 1.0
+dot:
+  heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction: 1.0
+fnrs:
+  electricity production, nuclear, pressure water reactor: 1.0
+gash2:
+  hydrogen production, auto-thermal reforming of natural gas, 25 bar: 1.0
+  hydrogen production, steam methane reforming of natural gas, 25 bar: 1.0
+gash2c:
+  hydrogen production, auto-thermal reforming of natural gas, with CCS (MDEA, 98% eff.), 25 bar: 1.0
+  hydrogen production, steam methane reforming of natural gas, with CCS (MDEA, 98% eff.), 25 bar: 1.0
+gashp:
+  heat production, natural gas, at industrial furnace >100kW: 1.0
+geohdr:
+  electricity production, deep geothermal: 1.0
+geohe:
+  heat production, deep geothermal: 1.0
+hydro:
+  electricity production, hydro, pumped storage: 1.0
+  electricity production, hydro, run-of-river: 1.0
+igcc:
+  electricity production, at power plant/hard coal, IGCC, no CCS: 1.0
+  electricity production, at power plant/lignite, IGCC, no CCS: 1.0
+igccc:
+  electricity production, at power plant/hard coal, oxy: 1.0
+  electricity production, at power plant/hard coal, post: 1.0
+  electricity production, at power plant/hard coal, pre: 1.0
+  electricity production, at power plant/lignite, oxy: 1.0
+  electricity production, at power plant/lignite, post: 1.0
+  electricity production, at power plant/lignite, pre: 1.0
+ngcc:
+  electricity production, natural gas, combined cycle power plant: 1.0
+ngccc:
+  electricity production, at power plant/natural gas, post: 1.0
+  electricity production, at power plant/natural gas, pre: 1.0
+ngt:
+  electricity production, natural gas, conventional power plant: 1.0
+pc:
+  Hard coal, burned in power plant/PC, no CCS: 1.0
+  Lignite, burned in power plant/PC, no CCS: 1.0
+refliq:
+  diesel production, petroleum refinery operation: 0.3340832395950506
+  heavy fuel oil production, petroleum refinery operation: 0.01574803149606299
+  kerosene production, petroleum refinery operation: 0.0967379077615298
+  naphtha production, petroleum refinery operation: 0.01574803149606299
+  petrol production, petroleum refinery operation: 0.5376827896512936
+spv:
+  electricity production, photovoltaic, 570kWp open ground installation, multi-Si: 1.0
+tnrs:
+  electricity production, nuclear, pressure water reactor: 1.0
+wind:
+  electricity production, wind, 1-3MW turbine, onshore: 1.0
+  electricity production, wind, <1MW turbine, onshore: 1.0
+  electricity production, wind, >3MW turbine, onshore: 1.0
+windoff:
+  electricity production, wind, 1-3MW turbine, offshore: 1.0

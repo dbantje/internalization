@@ -1,0 +1,7 @@
+pc:
+  Hard coal, burned in power plant/PC, no CCS: 0.5
+  Lignite, burned in power plant/PC, no CCS: 0.5
+wind:
+  electricity production, wind, 1-3MW turbine, onshore: 0.3
+  electricity production, wind, <1MW turbine, onshore: 0.4
+  electricity production, wind, >3MW turbine, onshore: 0.3

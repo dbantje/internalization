@@ -1,0 +1,53 @@
+GAINS,REMIND,noef,elasticity
+CEMENT,GDP|MER (billion US$2005/yr),0,0.4
+CHEM,GDP|MER (billion US$2005/yr),1,0.4
+CHEMBULK,GDP|MER (billion US$2005/yr),1,0.4
+CUSM,GDP|MER (billion US$2005/yr),1,0.4
+NACID,GDP|MER (billion US$2005/yr),0,0.4
+PAPER,GDP|MER (billion US$2005/yr),0,0.4
+STEEL,GDP|MER (billion US$2005/yr),0,0.4
+End_Use_Industry_Bio_Trad,Final Energy|Solids|Biomass|Traditional (EJ/yr),0,1
+End_Use_Industry_Coal,Final Energy|Solids|Coal (EJ/yr),0,1
+End_Use_Industry_HLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Industry_LLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Industry_NatGas,Final Energy|Other Sector|Gases (EJ/yr),0,1
+End_Use_Residential_Bio_Mod,Final Energy|Solids|Biomass|Modern (EJ/yr),0,1
+End_Use_Residential_Bio_Trad_Cook,Final Energy|Solids|Biomass|Traditional (EJ/yr),0,1
+End_Use_Residential_Bio_Trad_Heat,Final Energy|Solids|Biomass|Traditional (EJ/yr),0,1
+End_Use_Residential_Coal_Cook,Final Energy|Solids|Coal (EJ/yr),0,1
+End_Use_Residential_Coal_Heat,Final Energy|Solids|Coal (EJ/yr),0,1
+End_Use_Residential_HLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Residential_LLF,Final Energy|Other Sector|Liquids (EJ/yr),0,1
+End_Use_Residential_NatGas,Final Energy|Other Sector|Gases (EJ/yr),0,1
+End_Use_Services_Bio_Trad_Heat,Final Energy|Solids|Biomass|Traditional (EJ/yr),0,1
+End_Use_Services_Coal_Heat,Final Energy|Solids|Coal (EJ/yr),0,1
+End_Use_Transport_HDT_HLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_LDT_HLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_OFF_HLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_AGR_HLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_HDT_LLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_LDT_LLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_MC_LLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_OFF_LLF,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+End_Use_Transport_NatGas,Final Energy|Transportation|Liquids|Oil (EJ/yr),0,1
+Losses_Coal,Primary Energy|Coal (EJ/yr),1,1
+Losses_Distribution_Use,Final Energy|Gases (EJ/yr),1,1
+Losses_Prod_Conventional_Gas,Primary Energy|Gas (EJ/yr),1,1
+Losses_Prod_Oil,Primary Energy|Oil (EJ/yr),0,1
+Power_Gen_Bio_Trad_New,Secondary Energy|Electricity|Coal (EJ/yr),0,1
+Power_Gen_Bio_Trad_Old,Secondary Energy|Electricity|Coal (EJ/yr),0,1
+Power_Gen_Coal_New,Secondary Energy|Electricity|Coal (EJ/yr),0,1
+Power_Gen_Coal_Old,Secondary Energy|Electricity|Coal (EJ/yr),0,1
+Power_Gen_HLF,Secondary Energy|Electricity|Oil (EJ/yr),0,1
+Power_Gen_HLF_CCS,Secondary Energy|Electricity|Oil (EJ/yr),1,1
+Power_Gen_LLF,Secondary Energy|Electricity|Oil (EJ/yr),0,1
+Power_Gen_NatGas,Secondary Energy|Electricity|Gas (EJ/yr),0,1
+Transformations_Coal,Primary Energy|Coal (EJ/yr),1,1
+Transformations_HLF,Primary Energy|Oil (EJ/yr),1,1
+Transformations_HLF_Refinery,Primary Energy|Oil (EJ/yr),0,1
+Transformations_LLF,Primary Energy|Oil (EJ/yr),0,1
+Transformations_NatGas,Primary Energy|Gas (EJ/yr),1,1
+Waste_Solid_Industrial,GDP|MER (billion US$2005/yr),1,0.4
+Waste_Solid_Municipal,GDP|MER (billion US$2005/yr),1,0.4
+Waste_Water_Industrial,GDP|MER (billion US$2005/yr),1,0.4
+Waste_Water_Municipal,GDP|MER (billion US$2005/yr),1,0.4
