@@ -1,108 +1,260 @@
+biochp:
+  ecoinvent_aliases:
+    fltr:
+    - heat and power co-generation, wood chips, 6667 kW
 biodiesel:
-  Biodiesel production, via transesterification, from palm oil, energy allocation: 1.0
-  Biodiesel production, via transesterification, from rapeseed oil, energy allocation: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - Biodiesel production, via transesterification, from palm oil, energy allocation
+    - Biodiesel production, via transesterification, from rapeseed oil, energy allocation
+bioethl:
+  ecoinvent_aliases:
+    fltr:
+    - Ethanol production, via fermentation
+    mask:
+      name:
+      - economic allocation
+      - system expansion
+      - corn
+      - sorghum
+      - sugarbeet
+      - sugarcane
+      - wheat grains
 bioeths:
-  Ethanol production, via fermentation, from corn, energy allocation: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - Ethanol production, via fermentation
+    mask:
+      name:
+      - economic allocation
+      - system expansion
+      - wheat straw
+      - eucalyptus
+      - forest residues
+      - miscanthus
+      - poplar
+      - switchgrass
+      - willow
 bioftcrec:
-  Diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation: 0.46835443037974683
-  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation: 0.22784810126582278
-  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, with CCS, energy allocation: 0.30379746835443033
+  ecoinvent_aliases:
+    fltr:
+    - Kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood
+      gasification, with CCS, energy allocation
+    - Diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification,
+      with CCS, energy allocation
+    - Naphtha production, synthetic, Fischer Tropsch process, hydrogen from wood gasification,
+      with CCS, energy allocation
 bioftrec:
-  Diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation: 0.46835443037974683
-  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation: 0.22784810126582278
-  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from wood gasification, energy allocation: 0.30379746835443033
+  ecoinvent_aliases:
+    fltr:
+    - Kerosene production, synthetic, Fischer Tropsch process, hydrogen from wood
+      gasification, energy allocation
+    - Diesel production, synthetic, Fischer Tropsch process, hydrogen from wood gasification,
+      energy allocation
+    - Naphtha production, synthetic, Fischer Tropsch process, hydrogen from wood gasification,
+      energy allocation
 biogas:
-  Syngas, from biomass gasification, no CCS: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - Syngas, from biomass gasification, no CCS
 biogasc:
-  Syngas, from biomass gasification, pre, pipeline 200km, storage 1000m: 1.0
-  Syngas, from biomass gasification, pre, pipeline 400km, storage 3000m: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - Syngas, from biomass gasification, pre, pipeline 200km, storage 1000m
+    - Syngas, from biomass gasification, pre, pipeline 400km, storage 3000m
 bioh2:
-  hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained flow gasifier, at gasification plant: 1.0
-  hydrogen production, gaseous, 25 bar, from heatpipe reformer gasification of woody biomass, at gasification plant: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - hydrogen production, gaseous, 25 bar, from gasification of woody biomass in
+      entrained flow gasifier, at gasification plant
+    - hydrogen production, gaseous, 25 bar, from heatpipe reformer gasification of
+      woody biomass, at gasification plant
 bioh2c:
-  ? hydrogen production, gaseous, 25 bar, from gasification of woody biomass in entrained
-    flow gasifier, with CCS, at gasification plant
-  : 1.0
-  hydrogen production, gaseous, 25 bar, from heatpipe reformer gasification of woody biomass with CCS, at gasification plant: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - hydrogen production, gaseous, 25 bar, from gasification of woody biomass in
+      entrained flow gasifier, with CCS, at gasification plant
+    - hydrogen production, gaseous, 25 bar, from heatpipe reformer gasification of
+      woody biomass with CCS, at gasification plant
 biohp:
-  heat production, hardwood chips from forest, at furnace 1000kW, state-of-the-art 2014: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - heat production, hardwood chips from forest, at furnace 1000kW
+    mask:
+      name:
+      - state-of-the-art
 bioigcc:
-  electricity production, at BIGCC power plant, no CCS: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, at BIGCC power plant, no CCS
 bioigccc:
-  electricity production, at BIGCC power plant, pre, pipeline 200km, storage 1000m: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, at BIGCC power plant, pre, pipeline 200km, storage 1000m
+biotr:
+  ecoinvent_aliases:
+    fltr:
+    - wood chips production, hardwood, at sawmill
+biotrmod:
+  ecoinvent_aliases:
+    fltr:
+    - wood pellet production
+coalchp:
+  ecoinvent_aliases:
+    fltr:
+    - heat and power co-generation, hard coal
+    - heat and power co-generation, lignite
 coalftcrec:
-  Diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation: 0.46835443037974683
-  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation: 0.22784810126582278
-  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, with CCS, energy allocation: 0.30379746835443033
+  ecoinvent_aliases:
+    fltr:
+    - Kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal
+      gasification, with CCS, energy allocation
+    - Diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification,
+      with CCS, energy allocation
+    - Naphtha production, synthetic, Fischer Tropsch process, hydrogen from coal gasification,
+      with CCS, energy allocation
 coalftrec:
-  Diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation: 0.46835443037974683
-  Kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation: 0.22784810126582278
-  Naphtha production, synthetic, Fischer Tropsch process, hydrogen from coal gasification, energy allocation: 0.30379746835443033
+  ecoinvent_aliases:
+    fltr:
+    - Kerosene production, synthetic, Fischer Tropsch process, hydrogen from coal
+      gasification, energy allocation
+    - Diesel production, synthetic, Fischer Tropsch process, hydrogen from coal gasification,
+      energy allocation
+    - Naphtha production, synthetic, Fischer Tropsch process, hydrogen from coal gasification,
+      energy allocation
 coalgas:
-  Syngas, RWGS, Production, for Fischer Tropsch process, hydrogen from coal gasification: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - Syngas, RWGS, Production, for Fischer Tropsch process, hydrogen from coal gasification
 coalh2:
-  hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, at coal gasification plant: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming,
+      at coal gasification plant
 coalh2c:
-  hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming, with CCS, at coal gasification plant: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - hydrogen production, gaseous, 30 bar, from hard coal gasification and reforming,
+      with CCS, at coal gasification plant
+coalhp:
+  ecoinvent_aliases:
+    fltr:
+    - heat and power co-generation, hard coal
+    - heat and power co-generation, lignite
+    mask:
+      reference product:
+      - electricity
 coaltr:
-  coking: 1.0
-  hard coal briquettes production: 1.0
-  lignite briquettes production: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - lignite briquettes production
+    - hard coal briquettes production
+    - coking
 csp:
-  electricity production, solar thermal parabolic trough, 50 MW: 1.0
-  electricity production, solar tower power plant, 20 MW: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, solar tower power plant, 20 MW
+    - electricity production, solar thermal parabolic trough, 50 MW
 dot:
-  heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - heat and power co-generation, diesel, 200kW electrical, SCR-NOx reduction
 fnrs:
-  electricity production, nuclear, pressure water reactor: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, nuclear, pressure water reactor
+gaschp:
+  ecoinvent_aliases:
+    fltr:
+    - heat and power co-generation, natural gas, conventional power plant, 100MW electrical
 gash2:
-  hydrogen production, auto-thermal reforming of natural gas, 25 bar: 1.0
-  hydrogen production, steam methane reforming of natural gas, 25 bar: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - hydrogen production, auto-thermal reforming of natural gas, 25 bar
+    - hydrogen production, steam methane reforming of natural gas, 25 bar
 gash2c:
-  hydrogen production, auto-thermal reforming of natural gas, with CCS (MDEA, 98% eff.), 25 bar: 1.0
-  hydrogen production, steam methane reforming of natural gas, with CCS (MDEA, 98% eff.), 25 bar: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - hydrogen production, auto-thermal reforming of natural gas, with CCS (MDEA,
+      98% eff.), 25 bar
+    - hydrogen production, steam methane reforming of natural gas, with CCS (MDEA,
+      98% eff.), 25 bar
 gashp:
-  heat production, natural gas, at industrial furnace >100kW: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - heat production, natural gas, at industrial furnace >100kW
 geohdr:
-  electricity production, deep geothermal: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, deep geothermal
 geohe:
-  heat production, deep geothermal: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - heat production, deep geothermal
 hydro:
-  electricity production, hydro, pumped storage: 1.0
-  electricity production, hydro, run-of-river: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, hydro
 igcc:
-  electricity production, at power plant/hard coal, IGCC, no CCS: 1.0
-  electricity production, at power plant/lignite, IGCC, no CCS: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, at power plant/hard coal, IGCC, no CCS
+    - electricity production, at power plant/lignite, IGCC, no CCS
 igccc:
-  electricity production, at power plant/hard coal, oxy: 1.0
-  electricity production, at power plant/hard coal, post: 1.0
-  electricity production, at power plant/hard coal, pre: 1.0
-  electricity production, at power plant/lignite, oxy: 1.0
-  electricity production, at power plant/lignite, post: 1.0
-  electricity production, at power plant/lignite, pre: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, at power plant/lignite, pre
+    - electricity production, at power plant/lignite, post
+    - electricity production, at power plant/lignite, oxy
+    - electricity production, at power plant/hard coal, post
+    - electricity production, at power plant/hard coal, pre
+    - electricity production, at power plant/hard coal, oxy
 ngcc:
-  electricity production, natural gas, combined cycle power plant: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, natural gas, combined cycle power plant
 ngccc:
-  electricity production, at power plant/natural gas, post: 1.0
-  electricity production, at power plant/natural gas, pre: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, at power plant/natural gas, post
+    - electricity production, at power plant/natural gas, pre
 ngt:
-  electricity production, natural gas, conventional power plant: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, natural gas, conventional power plant
 pc:
-  Hard coal, burned in power plant/PC, no CCS: 1.0
-  Lignite, burned in power plant/PC, no CCS: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - Hard coal, burned in power plant/PC, no CCS
+    - Lignite, burned in power plant/PC, no CCS
 refliq:
-  diesel production, petroleum refinery operation: 0.3340832395950506
-  heavy fuel oil production, petroleum refinery operation: 0.01574803149606299
-  kerosene production, petroleum refinery operation: 0.0967379077615298
-  naphtha production, petroleum refinery operation: 0.01574803149606299
-  petrol production, petroleum refinery operation: 0.5376827896512936
+  ecoinvent_aliases:
+    fltr:
+    - diesel production, petroleum refinery operation
+    - petrol production, petroleum refinery operation
+    - kerosene production, petroleum refinery operation
+    - heavy fuel oil production, petroleum refinery operation
+    - naphtha production, petroleum refinery operation
 spv:
-  electricity production, photovoltaic, 570kWp open ground installation, multi-Si: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, photovoltaic, commercial
 tnrs:
-  electricity production, nuclear, pressure water reactor: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, nuclear, pressure water reactor
 wind:
-  electricity production, wind, 1-3MW turbine, onshore: 1.0
-  electricity production, wind, <1MW turbine, onshore: 1.0
-  electricity production, wind, >3MW turbine, onshore: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, wind
+    mask:
+      name:
+      - offshore
+      - label-certified
 windoff:
-  electricity production, wind, 1-3MW turbine, offshore: 1.0
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, wind, 1-3MW turbine, offshore
+    mask:
+      name:
+      - label-certified
