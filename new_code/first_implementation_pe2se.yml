@@ -1,0 +1,25 @@
+bioigcc:
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, at BIGCC power plant, no CCS
+geohdr:
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, deep geothermal
+ngcc:
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, natural gas, combined cycle power plant
+pc:
+  ecoinvent_aliases:
+    fltr:
+    - Hard coal, burned in power plant/PC, no CCS
+    - Lignite, burned in power plant/PC, no CCS
+spv:
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, photovoltaic, commercial
+tnrs:
+  ecoinvent_aliases:
+    fltr:
+    - electricity production, nuclear, pressure water reactor

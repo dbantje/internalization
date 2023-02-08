@@ -1,0 +1,41 @@
+pebiolc:
+  ecoinvent_aliases:
+    fltr:
+    - hardwood forestry
+    - softwood forestry
+pecoal:
+  ecoinvent_aliases:
+    fltr:
+    - hard coal mine operation and hard coal preparation
+    - lignite mine operation
+pegas:
+  ecoinvent_aliases:
+    fltr:
+    - natural gas production
+pegeo:
+  ecoinvent_aliases:
+    fltr:
+    - deep well drilling, for deep geothermal power
+    - deep well drilling, for deep geothermal heat
+pehyd:
+  ecoinvent_aliases:
+    fltr:
+    - hydropower plant construction
+peoil:
+  ecoinvent_aliases:
+    fltr:
+    - crude oil, at production
+    - crude oil, at production offshore
+pesol:
+  ecoinvent_aliases:
+    fltr:
+    - concentrated solar power plant construction
+peur:
+  ecoinvent_aliases:
+    fltr:
+    - uranium mine operation, open cast
+    - uranium mine operation, underground
+pewin:
+  ecoinvent_aliases:
+    fltr:
+    - wind turbine construction
